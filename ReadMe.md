@@ -1,5 +1,4 @@
-An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that
-contains only letters is an isogram.
+An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a given string contains only letters, with no letter appearing more than once in the word.
 
 1. Assume the empty string is an isogram.
 2. Assume null is not an isogram.
