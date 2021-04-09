@@ -17,9 +17,6 @@ package com.gfs.exercise;
  * isIsogram "Dermatoglyphics" == true
  * isIsogram "aba" == false
  * isIsogram "moOse" == false -- ignore letter case
- *
- * @param word
- * @return boolean - true if a word is an isogram
  */
 class Isogram {
 
